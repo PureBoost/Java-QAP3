@@ -1,7 +1,7 @@
-package Problem3;
+package Problem4;
 
 // Abstract superclass for all shapes.
-public abstract class Shape {
+public abstract class Shape implements Scalable {
 	private String name;
 
 	public Shape(String name) {

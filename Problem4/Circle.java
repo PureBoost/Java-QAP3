@@ -1,4 +1,4 @@
-package Problem3;
+package Problem4;
 
 // Circle is an ellipse with equal axes.
 public class Circle extends Ellipse {
