@@ -1,0 +1,8 @@
+package Problem3;
+
+// EquilateralTriangle is a triangle with three equal sides.
+public class EquilateralTriangle extends Triangle {
+	public EquilateralTriangle(String name, double side) {
+		super(name, side, side, side);
+	}
+}
